@@ -3,6 +3,7 @@ layout: post
 title:  "Books I've Read as an AppSec Engineer"
 ---
 ## _Designing Secure Software_ by Loren Kohnfelder
+![designing secure software book](https://nostarch.com/sites/default/files/styles/uc_product_full/public/Designing%20Secure%20Software_revised.png?)
 This is a book I can heartily recommend to developers I'm coaching that are new to application security and could use a solid foundation from which to learn about secure coding.
 
 Mr. Kohnfelder writes clearly and enjoyably about a very technical topic, not an easy feat. I also appreciate how guidance on privacy concerns are woven throughout, which I don't often see and for which I am grateful.
