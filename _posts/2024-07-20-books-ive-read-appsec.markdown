@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Books I've Read as an AppSec Engineer"
+title:  "Book Review: Loren Kohnfelder's Designing Secure Software"
 ---
-## _Designing Secure Software_ by Loren Kohnfelder
 ![designing secure software book cover]({{ site.baseurl }}/assets/Designing_Secure_Software_book_cover.png){: width="220"}
 
 This is a book I can heartily recommend to developers I'm coaching, especially those that are new to application security and could benefit from a solid foundation from which to learn about secure coding.
