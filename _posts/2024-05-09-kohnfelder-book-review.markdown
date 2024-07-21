@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review: Loren Kohnfelder's Designing Secure Software"
 categories: book review
 ---
-[![designing secure software book cover]({{ site.baseurl }}/assets/Designing_Secure_Software_book_cover.png){: width="220"}][https://nostarch.com/designing-secure-software]
+[![designing secure software book cover]({{ site.baseurl }}/assets/Designing_Secure_Software_book_cover.png){: width="220"}](https://nostarch.com/designing-secure-software)
 
 This is a book I can heartily recommend, especially to those that are new to application security and could benefit from a solid foundation from which to learn about secure coding.
 
