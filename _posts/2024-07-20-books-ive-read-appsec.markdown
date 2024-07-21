@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Book Review: Loren Kohnfelder's Designing Secure Software"
+categories: book review
 ---
 ![designing secure software book cover]({{ site.baseurl }}/assets/Designing_Secure_Software_book_cover.png){: width="220"}
 
