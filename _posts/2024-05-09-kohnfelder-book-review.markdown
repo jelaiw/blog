@@ -19,5 +19,13 @@ Shame that this book is not more popular given how well-written it is.
 
 Indeed, it came to me as part of a Humble Bundle, where I happened to peek at the foreword (written by Adam Shostack, and offering a compelling endorsement of its contents) and preface and got serendipitously snagged into reading the whole thing.
 
+Definitely underrated for now.
+
+## Trivia
+A fun tidit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. Yes, that STRIDE.
+
+The original paper, published internally at Microsoft in 1999, is [publicly available now][stride-paper], which is a gift for those of us who appreciate history and study its artifacts.
+
 [publisher-page]: https://nostarch.com/designing-secure-software
 [author-page]: https://designingsecuresoftware.com/
+[stride-paper]: https://shostack.org/files/microsoft/The-Threats-To-Our-Products.docx
