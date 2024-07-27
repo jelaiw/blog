@@ -14,4 +14,9 @@ The "Patterns" chapter and both chapters in "Part II: Designs" stand out for me.
 
 Bravo!
 
+## The Bad
+Shame that this book is not more popular given how well-written it is.
+
+Indeed, it came to me as part of a Humble Bundle, where I happened to peek at the foreword (written by Adam Shostack, and offering a compelling endorsement of its contents) and preface and got serendipitously snagged into reading the whole thing.
+
 [publisher-page]: https://nostarch.com/designing-secure-software
