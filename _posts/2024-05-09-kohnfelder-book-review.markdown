@@ -21,10 +21,12 @@ Indeed, it came to me as part of a Humble Bundle, where I happened to peek at th
 
 Definitely underrated for now.
 
-## Trivia
-A fun tidit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. Yes, that STRIDE.
+## Parting Thoughts
+A fun tidit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. _Yes, that STRIDE_.
 
 The original paper, published internally at Microsoft in 1999, is [publicly available now][stride-paper], which is a gift for those of us who appreciate history and study its artifacts.
+
+Final Verdict: __Read it!__
 
 [publisher-page]: https://nostarch.com/designing-secure-software
 [author-page]: https://designingsecuresoftware.com/
