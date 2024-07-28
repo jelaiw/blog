@@ -11,6 +11,6 @@ Perhaps this is possible with some thoughtful combination of training, tooling, 
 
 At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", in phase with their SDLC, when bugs are cheapest to fix.
 
-However, that is primarily SAST (static application security testing) at the pull request, which is great for what it is, as a safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- especially to avoid writing the bug in first place?
+However, what I describe primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- especially to avoid writing the bug in first place?
 
  -- JW
