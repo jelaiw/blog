@@ -3,14 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-## The Problem
+## The problem
 Why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
 
 To the extent that an existing vulnerability is a security bug that was unwittingly written into code by a developer, can we prevent new bugs from being introduced while writing software? 
 
 After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
 
-## Maybe DevSecOps is not Everything
+## Maybe DevSecOps is not everything
 Perhaps the desired outcome is possible with some thoughtful combination of people, tooling, and process? 
 
 At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
@@ -25,7 +25,7 @@ After taking over an existing "videos + quizzes" secure coding training program 
 Time will tell.
 
 ## The blog itself
-I try to explore these questions, sometimes seriously, but mostly playfully by a recounting (and maybe reckoning) of my own meandering engineering travels, including books/papers/posts I've read and boxes/rooms/labs I've tried while "riding the struggle bus".
+I try to explore these questions, sometimes seriously, but mostly playfully by a recounting (and maybe reckoning) of my own meandering engineering travels, including books/papers/posts I've read, boxes/rooms/labs I've tried while "riding the struggle bus", and more.
 
 Happy reading!
 
