@@ -20,12 +20,12 @@ However, what I just described primarily leverages SAST (static application secu
 ## Secure coding is not a side quest
 Can it be learned? Can it be taught? _What happens when we place our emphasis on teaching and learning_?
 
-After taking over an existing "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform that provides high-quality hands-on labs and a "hack it first, then fix it" approach, I have reason to be cautiously optimistic, maybe even naively excited about the possibilities.
+After taking over an existing "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about the possibilities.
 
 Time will tell.
 
 ## The blog itself
-I try to explore these questions, sometimes seriously, but mostly playfully by a recounting (and maybe reckoning) of my own meandering engineering travels, including books/papers/posts I've read, boxes/rooms/labs I've tried while "riding the struggle bus", and more.
+I try to explore these questions, mostly playfully, by a recounting (and maybe reckoning) of my own meandering engineering travels, including books/papers/posts I've read, boxes/rooms/labs I've tried while "riding the struggle bus", and more.
 
 Happy reading!
 
