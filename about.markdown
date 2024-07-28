@@ -7,6 +7,7 @@ Why does the technology world have a cybersecurity problem? If you believe that 
 
 In particular, to the extent that each existing software vulnerability is a security bug that was unwittingly written into code by a developer, can we prevent new bugs from being introduced while writing software? After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
 
+## The Hypothesis
 Perhaps this is possible with some thoughtful combination of training, tooling, and process. 
 
 At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their workflow and when bugs are cheapest to fix.
