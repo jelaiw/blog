@@ -10,8 +10,8 @@ To the extent that an existing vulnerability is a security bug that was unwittin
 
 After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
 
-## DevSecOps is not Everything
-Perhaps this is possible with some thoughtful combination of training, tooling, and process? 
+## Maybe DevSecOps is not Everything
+Perhaps the desired outcome is possible with some thoughtful combination of training, tooling, and process? 
 
 At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their standard workflow and when newly written code is still freshly in mind (_bugs are cheaper to fix then_).
 
