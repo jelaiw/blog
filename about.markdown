@@ -18,10 +18,13 @@ At least that is the hypothesis I put to test daily as an Application Security e
 However, what I describe primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
 ## Secure coding is not a side quest
-Can secure coding be learned? Can it be taught?
+Can it be learned? Can it be taught? Maybe our emphasis should be here.
 
 After taking over an existing "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform that provides high-quality hands-on labs and a "hack it first, then fix it" approach, I have reason to be cautiously optimistic, maybe even naively excited about the possibilities.
 
-This blog tries to playfully explore these questions, in part through a recounting (and reckoning) of my own meandering engineering travels, including books/papers/posts I've read (both good and bad), boxes/rooms/labs I've tried to hack while learning how to AppSec myself, and the values and history that I hope are not forgotten or de-valued along the way as we try to solve this problem.
+## The blog itself
+I try to explore these questions, sometimes seriously, but mostly playfully by a recounting (and maybe reckoning) of my own meandering engineering travels, including books/papers/posts I've read and boxes/rooms/labs I've tried while "riding the struggle bus".
+
+Happy reading!
 
  -- JW
