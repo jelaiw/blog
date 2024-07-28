@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 ## The Problem
-Why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", and maybe also that software has already eaten the world, then perhaps much of the answer lies in how we develop software.
+Why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
 
-In particular, to the extent that each existing software vulnerability is a security bug that was unwittingly written into code by a developer, can we prevent new bugs from being introduced while writing software? After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
+To the extent that an existing vulnerability is a security bug that was unwittingly written into code by a developer, can we prevent new bugs from being introduced while writing software? After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
 
 ## The Hypothesis
 Perhaps this is possible with some thoughtful combination of training, tooling, and process? 
