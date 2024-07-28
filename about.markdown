@@ -11,7 +11,7 @@ To the extent that an existing vulnerability is a security bug that was unwittin
 ## The Hypothesis
 Perhaps this is possible with some thoughtful combination of training, tooling, and process? 
 
-At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their workflow (attempting to preserve any hard-won flow state) and when newly written code is still freshly in mind (bugs are cheaper to fix then).
+At least that is the hypothesis I put to test daily as an Application Security engineer, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their standard workflow and when newly written code is still freshly in mind (_bugs are cheaper to fix then_).
 
 However, what I describe primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
