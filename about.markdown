@@ -6,9 +6,9 @@ permalink: /about/
 ## The problem
 Why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
 
-To the extent that an existing vulnerability is a security bug that was unwittingly written into code by a developer, can we prevent new bugs from being introduced while writing software? 
+To the extent that an existing vulnerability is a security bug that was _unwittingly_ written into code by a developer, how many bugs can we prevent from being introduced simply by improving secure coding competency and awareness?
 
-After all, if the well-meaning, but busy developer knows how to write secure code, would they still otherwise choose to write vulnerable code?
+After all, if the well-meaning developer knows to (and how to) write secure code, under what circumstances would vulnerable code still be produced?
 
 ## Maybe DevSecOps is not everything
 Perhaps the desired outcome is possible with some thoughtful combination of people, tooling, and process? 
