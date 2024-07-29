@@ -17,7 +17,7 @@ Shame that this book is not more popular given how well-written it is.
 
 Indeed, it came to me as part of a Humble Bundle, which I purchased primarily to read other books. I happened to peek at the foreword (written by Adam Shostack, and offering a compelling endorsement of its contents) and preface and got serendipitously snagged into reading the whole thing.
 
-Definitely underrated right now, though I expect this will change given time.
+Definitely underrated right now, though I expect this will change over time.
 
 ## Parting Thoughts
 A fun tidit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. _Yes, that STRIDE_.
