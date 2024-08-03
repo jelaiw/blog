@@ -13,14 +13,14 @@ After all, if the well-meaning developer knows to (and how to) write secure code
 ## DevSecOps
 Perhaps the desired outcome is possible with some thoughtful combination of people, tooling, and process? 
 
-At least that is the hypothesis I test daily as an Application Security engineer working in DevOps, where I try to help teams by implementing self-service infrastructure that (ideally) provides developers with alert data at the "right time", both in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
+At least that is the hypothesis I get to test daily as an Application Security engineer working in DevOps, where I try to help teams by implementing self-service infrastructure that puts alert data into developer hands at "the right time", ideally in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
 
 However, this "layer of defense" primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
-## The side quest
+## The quest
 Can secure coding be learned? Can it be taught? _What happens when we place more emphasis on teaching and learning_?
 
-After inheriting a "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
+After inheriting a "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers (and a seemingly agreeable way to measure secure coding competency), I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
 
 I invite you to come along as I try to explore these questions further, through a recounting (and maybe playful reckoning) of my own meandering and ongoing engineering travels.
 
