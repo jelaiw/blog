@@ -48,18 +48,18 @@ Like many teenagers, I played a ton of games. My early PC favorites were adventu
 
 Also, I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
-### Friends
+#### Friends
 Lamentably, much of my early focus was MS-DOS because that's what ran on the home PC, but eventually I found my way to Linux, which reminds me to write a bit about those who have influenced and guided me, probably unbeknownst to them.
 
 I will start with Jose R, a high school friend, whose love of phone phreaking and viruses (computer) helped light my own fire. I should say we spent most of our time goofing off.
 
-Also, Chris G, a college friend, who gave me my first Linux distro on CD. I forget if it was Slackware or maybe RedHat. I do remember that I picked it up from him at his parent's house, where he stayed in the basement. It was night, he took the CD out of the burner, and to me it glowed like the first artifact in Raiders of the Lost Ark.
+Also, Chris G, a college classmate, who gave me my first Linux distro on CD. I forget if it was Slackware or RedHat. I do remember that I picked it up from him at his parent's house, where he stayed in the basement. It was night, he took the CD out of the burner, and to me it glowed like the first artifact in Raiders of the Lost Ark.
 
 I will also mention Ben B, who was an actual real-life sysadmin at my first developer job, where I made my first big on-the-job mistake -- I'm fuzzy on the exact details now, but it involved `rm -rf` and an important server. He was cool about it, and like any good sysadmin, had a contingency for the stupid things developers sometimes do. I learned my lesson, and we became good friends.
 
 ## This blog
-I invite you to come along as I try to explore these questions further, through a recounting (and maybe playful reckoning) of my own meandering and ongoing engineering travels.
+If you like what you've read so far of my meandering and ongoing engineering travels, please let me know. As a student of history, I enjoy the recounting and even a playful reckoning. I'll try to write more.
 
-Happy reading!
+Cheers!
 
  -- JW
