@@ -6,7 +6,7 @@ When I talk to students, interns, and early career professionals, I'm often aske
 
 No matter who I'm addressing, I typically respond the same way, given that I try to be "lazy" (like good software developers) and avoid toil (like DevOps engineers).
 
-Often these "force multipliers" aren't cutting edge or flashy, but boring and fundamental (though sometimes still innovative in its adaptations). A few are outlined below.
+Often these "force multipliers" aren't cutting edge or flashy, but boring and fundamental (though sometimes still innovative in its implementation). A few are outlined below.
 
 ## The problem
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
