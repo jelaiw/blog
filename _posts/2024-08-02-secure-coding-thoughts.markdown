@@ -23,7 +23,7 @@ This "layer of defense" primarily leverages SAST (static application security te
 ## The experiment
 Can secure coding be learned? Can it be taught? _What happens when we place a more carefully considered emphasis on teaching and learning_? And properly resource it.
 
-After inheriting a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designing and re-implementing it around an innovative platform (with a seemingly agreeable way to measure secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
+After inheriting a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designing and re-implementing it this past year around an innovative platform (with an opinion on how to measure and score secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
 
 Is there a light at the end of this tunnel?
 

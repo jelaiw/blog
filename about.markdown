@@ -22,7 +22,7 @@ The next decade was much tougher on me. I ran a one-person LLC, which I'm glad I
 Now here I am, _with a friendly shove from COVID_. So far I seem to be finding a surprising kind of joy and satisfaction -- is such a thing meant to last??
 
 ## Growing up
-Looking back on my childhood now, I suppose there were some telling hints. As a Gen Xer, I grew up at a time when most households did not have a computer. Then, somewhere in the middle, it seemed like everyone had a personal computer (PC). Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
+Looking back on my childhood now, I suppose there were some telling hints. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 
 Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest), King's Quest, maybe even Leisure Suit Larry. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (some of my characters in a [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) had unlikely and powerful items and unusually high character attributes).
 
