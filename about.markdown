@@ -20,7 +20,7 @@ The next decade was much tougher on me. I ran a one-person LLC, which I'm glad I
 Now here I am, _with a friendly shove forward from COVID_. So far I seem to be finding a surprising kind of joy and satisfaction -- is such a thing meant to last??
 
 ## Growing up
-In hindsight, there were perhaps some telling hints that I would enjoy this leg of my journey.
+In hindsight, there were some telling hints that I might enjoy this leg of my journey.
 
 As a Gen Xer, I grew up at a time when most households did not have a computer. Then, in the middle of my childhood years, it seemed like everyone had a personal computer (PC). Ours was an IBM PS/2.
 
@@ -29,17 +29,12 @@ Like many teenagers, I played a ton of games. My early PC favorites were adventu
 Also, I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
 ## Friends along the way
-Lamentably, much of my early focus was MS-DOS because that's what ran on the PS/2, but eventually I found my way to Linux, which reminds me to acknowledge those who have influenced and guided me, probably unbeknownst to them.
+Lamentably, much of my early focus was MS-DOS because that's what ran on the PS/2, but eventually I found my way to Linux, which reminds me to acknowledge some of those who have influenced and guided me, probably unbeknownst to them.
 
-I will start with Jose R, a high school friend, whose love of phone phreaking and viruses (computer) helped spark and nurture my own fire for "learning by hacking". I should say we spent most of our time goofing off.
+I will start with Jose R, a high school friend, whose love and study of phone phreaking and computer viruses helped spark and nurture my own fire for "learning by hacking". I should say we spent most of our time goofing off.
 
-Also, Chris G, a college classmate, who gave me my first Linux distro on CD. I forget if it was Slackware or RedHat. I do remember that I picked it up from him at his parent's house, where he stayed in the basement. It was night, he took the CD out of the burner, and to me it glowed like the gold idol artifact in Raiders of the Lost Ark.
+Also, Chris G, a college classmate, who gave me my first Linux distro on CD. I forget if it was Slackware or RedHat. I do remember that I picked it up from him at his parent's house, where he stayed in the basement. It was night, he took the CD out of the burner, and to me it glowed like the gold idol artifact from Raiders of the Lost Ark.
 
 I will also mention Ben B, who was an actual real-life sysadmin at my first developer job, where I made my first big on-the-job mistake -- I'm fuzzy on the exact details now, but it involved `rm -rf` and an important server. He was cool about it, and like any good sysadmin, had a contingency for the stupid things developers sometimes do. I learned my lesson, and we became good friends.
-
-## The blog
-If you like what you've read so far of my meandering (and ongoing) engineering travels, please let me know and I'll try to write more. As a student of history, I enjoy the recounting and even a playful reckoning.
-
-Cheers!
 
  -- JW
