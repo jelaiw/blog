@@ -8,14 +8,14 @@ categories: book review
 ## The Good
 Mr. Kohnfelder writes clearly and enjoyably about a very technical topic, not an easy feat. I also appreciate how privacy is intentionally discussed and revisited throughout.
 
-The "Patterns" chapter and both chapters in "Part II: Designs" stand out for me. Also Appendix A, which has a sample design document we are invited to work through. _How often does an author figure out a way to give motivated readers an opportunity to practice fleshing out a design and then SDR it_? 
+The "Patterns" chapter and both chapters in "Part II: Designs" stand out for me. Also Appendix A, which has a sample design document we are invited to work through. _How often does an author figure out a way to give motivated learners an opportunity to practice fleshing out a design and then SDR it_? 
 
 Bravo!
 
 ## The Bad
-Shame that this book is not more popular given how well-written it is.
+What a shame that this book is not more popular! 
 
-Indeed, it came to me as part of a Humble Bundle, which I purchased primarily to read other books. I happened to peek at the foreword (written by Adam Shostack, and offering a compelling endorsement of its contents) and preface and got serendipitously snagged into reading the whole thing.
+I almost skipped over it myself because it came to me in a "pile" (as part of a Humble Bundle), which I purchased primarily to read something else. I happened to peek at the foreword (written by Adam Shostack, and offering a compelling endorsement of its contents) and preface and got serendipitously snagged into reading the whole thing.
 
 Definitely underrated right now, though I expect this will change over time.
 
