@@ -8,7 +8,7 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## College
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, mine was Computer Networking, which turned out to be such a good fit. How could I tell? Well, for one thing, I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_. We would implement the network protocols of the time (e.g., File Transfer Protocol, or FTP) as part of hands-on labs, but some of us also implemented things like IRC clients (a kind of rite of passage) on our own and for fun.
+At the time CS students were required to choose a concentration, mine was Computer Networking, which worked out well. I discovered that I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_. Naturally, I implemented the network protocols of the time (e.g., File Transfer Protocol, or FTP), including things like IRC clients (a kind of rite of passage), mostly on my own and for fun.
 
 Also, I had a part time job in the Computer Science department as a sysadmin, where I got to build and operate Windows NT servers, make CAT5 cables, and discover exactly what's under the floor tiles (server room had a raised floor). I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
