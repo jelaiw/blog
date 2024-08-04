@@ -2,7 +2,9 @@
 layout: post
 title:  "Thoughts on Secure coding training"
 ---
-Because secure coding training is often conceived as a check-the-box compliance activity, it gets resourced accordingly and lightly implemented. _So what can a developer get out of a videos & quizzes-only approach_? They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency (our desired outcome)?
+Because secure coding training is often conceived as a check-the-box compliance activity, it gets resourced accordingly and lightly implemented. _So what can a developer get out of a videos & quizzes-only approach_? 
+
+They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency (our desired outcome)?
 
 I think a well-designed secure coding training program has the potential to be a real force multiplier in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to measure competency, connect it to outcome, and better position our developers for success_?
 
@@ -14,9 +16,7 @@ To the extent that an existing vulnerability is a security bug that was _unwitti
 After all, if the well-meaning developer knows to (and how to) write secure code, under what circumstances would vulnerable code still be produced?
 
 ## Relative positioning
-How far does a thoughtful combination of people, tooling, and process get us?
-
-I think this is foundational, but it only gets us so far. At least in my opinion as an Application Security engineer working in DevOps, where I try to help teams by implementing self-service infrastructure (i.e., platform engineering) that puts alert data into developer hands at "the right time", ideally in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
+As an Application Security engineer working in DevOps, I try to help teams by implementing self-service infrastructure (i.e., platform engineering) that puts alert data into developer hands at "the right time", ideally in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
 
 This "layer of defense" primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
