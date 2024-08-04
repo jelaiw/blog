@@ -13,11 +13,13 @@ At the time CS students were required to choose a concentration, mine was Comput
 Also, I had a part time job in the Computer Science department as a sysadmin, where I got to build and operate Windows NT servers, make CAT5 cables, and discover exactly what's under the floor tiles (server room had a raised floor). I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
-Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun, not Oracle. Object-oriented programming (OOP) and GUIs were the thing to learn, so I wrote mostly Java, led a weekly OOP design patterns study group, learned how to refactor (thanks to Martin Fowler), tried to program pragmatically (with much owed to Josh Bloch, Andy Hunt and Dave Thomas), and generally had a good time.
+Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun, not Oracle.
+
+Object-oriented programming (OOP) and GUIs were the thing to learn, so I wrote mostly Java, led a weekly OOP design patterns study group, learned how to refactor (thanks to Martin Fowler), tried to program pragmatically (with much owed to Josh Bloch, Andy Hunt and Dave Thomas), and generally had a good time.
 
 The next decade was much tougher on me. I ran a one-person LLC, which I'm glad I did, but it turned out to be a failed experiment. I also did data and DevOps engineering, which started to open my eyes to how some of the problems plaguing cyber security could possibly be solved.
 
-Now here I am, _with a friendly shove forward from COVID_. So far I seem to be finding a surprising kind of joy and satisfaction -- is such a thing meant to last??
+Now here I am, _with a friendly shove from COVID_. So far I seem to be finding a surprising kind of joy and satisfaction -- is such a thing meant to last??
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some telling hints. As a Gen Xer, I grew up at a time when most households did not have a computer. Then, somewhere in the middle, it seemed like everyone had a personal computer (PC). Ours was an IBM PS/2.
