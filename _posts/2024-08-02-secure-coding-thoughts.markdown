@@ -15,16 +15,16 @@ To the extent that an existing vulnerability is a security bug that was _unwitti
 
 After all, if the well-meaning developer knows to (and how to) write secure code, under what circumstances would vulnerable code still be produced?
 
-## Relative positioning
+## Relative positioning in the SDLC
 As an Application Security engineer working in DevOps, I try to help teams by implementing self-service infrastructure (i.e., platform engineering) that puts alert data into developer hands at "the right time", ideally in phase with their standard workflow and when newly written code is still fresh in mind (_bugs are cheaper to fix then_).
 
 This "layer of defense" primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
-## The hypothesis
-Can secure coding be learned? Can it be taught? _What happens when we place a more appropriately considered emphasis on teaching and learning_? And properly resource it.
+## The experiment
+Can secure coding be learned? Can it be taught? _What happens when we place a more carefully considered emphasis on teaching and learning_? And properly resource it.
 
-After inheriting a "videos + quizzes" secure coding training program (FWIW, one of the good ones) a few years ago and opportunistically re-designing and re-implementing it around a platform (with a seemingly agreeable way to measure secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
+After inheriting a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designing and re-implementing it around an innovative platform (with a seemingly agreeable way to measure secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
 
-I'm testing these hypotheses. More on this later.
+Is there a light at the end of this tunnel?
 
 -- JW
