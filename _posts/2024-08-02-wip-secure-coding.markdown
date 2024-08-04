@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "A hypothesis on Secure coding training"
+title:  "Thoughts on Secure coding training"
 ---
-While secure coding training is often ill-considered, under-resourced, and implemented poorly as a check-the-box compliance activity, I think it has the potential to be a real force multiplier in the context of modern DevSecOps and its platform engineering focus. _Can we figure out how to measure outcome and better position it for success_?
+Because secure coding training is often conceived as a check-the-box compliance activity, it gets (under-)resourced accordingly and is typically implemented simply, and sometimes lazily, as videos + quizzes. While these can be high-quality, _what does the developer get out of it_? They certainly practice watching videos (often 8+ hours on average per year) and taking tests, which arguably has an unclear connection to increasing actual secure coding competency.
+
+This is lamentable because I think a well-designed and well-implemented secure coding training program has the potential to be a real force multiplier in the context of modern DevSecOps and its platform engineering focus. _Can we figure out how to measure outcome and better position it for success_?
 
 ## The problem
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.

@@ -10,7 +10,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_. Naturally, I implemented all the network protocols of the time, including an IRC client (a kind of rite of passage). Then the internet blew up, so it seems to have worked out.
 
-Also, I had a part time job in the Computer Science department as a sysadmin, where I got to build and operate Windows NT servers, make CAT5 cables, and discover exactly what's under the floor tiles (server room had a raised floor). I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+I also had a part time job in the Computer Science department as a sysadmin, where I got to build and operate Windows NT servers, make CAT5 cables, and discover exactly what's under the floor tiles (server room had a raised floor). I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
 Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun, not Oracle.
@@ -26,6 +26,8 @@ Looking back on my childhood now, I suppose there were some telling hints. As a 
 
 Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like Space Quest, King's Quest, maybe even Leisure Suit Larry. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (some of my characters in a Buck Rogers RPG had unlikely and powerful items and unusually high character attributes).
 
-Also, I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
+I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret, but I did not really grok applied cryptography until later.
+
+Better late than never?
 
  -- JW
