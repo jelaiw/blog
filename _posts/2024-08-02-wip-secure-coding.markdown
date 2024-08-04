@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "How I Work"
+title:  "A hypothesis on Secure coding training"
 ---
-When I talk to students, interns, and early career professionals, I'm often asked about how I work day-to-day, as in daily activities, how I structure my week/month/year, etc. In contrast, when I advise more experienced engineers, I'm asked mostly about overall philosphy, vision, and long-term strategy. 
-
-No matter who I'm addressing, I typically respond the same way, given that I try to be "lazy" (like good software developers) and avoid toil (like DevOps engineers).
-
-Often these "force multipliers" aren't cutting edge or flashy, but boring and fundamental (though sometimes still innovative in its implementation). A few are outlined below.
+While secure coding training is often ill-considered, under-resourced, and implemented poorly as a check-the-box compliance activity, I think it has the potential to be a real force multiplier in the context of modern DevSecOps and its platform engineering focus. _Can we figure out how to measure outcome and better position it for success_?
 
 ## The problem
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
@@ -22,7 +18,7 @@ At least that is the hypothesis I get to test daily as an Application Security e
 
 However, this "layer of defense" primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
-## Secure coding
+## Secure coding itself
 Can it be learned? Can it be taught? _What happens when we place more emphasis on teaching and learning_?
 
 After inheriting a "videos + quizzes" secure coding training program a few years ago and eventually re-designing and re-implementing it around a platform (with a seemingly agreeable way to measure secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
