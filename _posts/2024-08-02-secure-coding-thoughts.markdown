@@ -25,6 +25,4 @@ Can secure coding be learned? Can it be taught? _What happens when we place a mo
 
 After inheriting a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designing and re-implementing it this past year around an innovative platform (with an opinion on how to measure and score secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
 
-Is there a light at the end of this tunnel?
-
 -- JW
