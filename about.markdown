@@ -26,6 +26,6 @@ Like many teenagers, I played a ton of games. My early PC favorites were adventu
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
-From there it over twenty years before I really tried again to grok applied cryptography. It was worth the wait.
+Twenty years flew by before I really tried again to grok applied cryptography, but what a joy it is now.
 
  -- JW
