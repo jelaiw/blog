@@ -17,12 +17,12 @@ Instead, I spent the first decade of my career as a software developer. This was
 
 The next decade was much tougher on me. I ran a one-person LLC, which I'm glad I did, but it turned out to be a sort of failed experiment. I also did data and DevOps engineering, all the while noticing how some of the problems holding back progress in security could possibly be solved with a platform engineering approach.
 
-Eventually I had the exceedingly good fortune, _after a friendly shove from COVID_, to test out those hypotheses full-time as an AppSec engineer that sat with a DevOps team. Not quite sure how I pulled that off.
+Wonderfully good fortune, _after a friendly shove from COVID_, to test out those hypotheses full-time as an AppSec engineer sitting with a DevOps team. Not quite sure how I pulled that off.
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 
-Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest), King's Quest, maybe even Leisure Suit Larry. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (some of my characters in a [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) had unlikely and powerful items and unusually high character attributes).
+Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest), King's Quest, maybe even Leisure Suit Larry. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (correspondingly my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes).
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for the "Computing" section to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
