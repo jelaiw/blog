@@ -32,6 +32,6 @@ I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or
 
 Twenty years flew by before I really tried again to grok cryptography, but what a joy it is now.
 
-![threat modeling help 5 cents, the appsec engineer is in, concept art based on lucy from peanuts]({{ site.baseurl }}/assets/lucy.png){: width="222"}
+![threat modeling help 5 cents, the appsec engineer is in, concept art based on lucy from peanuts]({{ site.baseurl }}/assets/lucy.png){: width="888"}
 
  -- JW
