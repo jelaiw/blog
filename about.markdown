@@ -10,7 +10,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_. Naturally, I implemented all the network protocols of the time, including an IRC client (a kind of rite of passage). Then the internet became important, so it seems to have worked out.
 
-I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and discover exactly what's under the floor (raised panels) in the server room. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and discover exactly what's under the raised floor panels in the server room. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
 Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. 
@@ -19,9 +19,9 @@ Object-oriented programming (OOP) and GUIs were the thing to learn, so I wrote m
 
 The next decade was much tougher on me. 
 
-I ran a one-person LLC, which I'm glad I did because it taught me about sales, product, and the power of the MVP (minimum viable product), but it ultimately turned out to be a sort of failed experiment. I also did data and DevOps engineering, which opened my eyes to how some problems in security could be solved with platform engineering.
+I ran a one-person LLC, which I'm glad I did because it taught me about sales, product, and the power of the MVP (minimum viable product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
 
- _After a friendly shove from COVID_, I now get to work on AppSec problems full-time. Not quite sure how I pulled that off.
+ _After a friendly shove forward from COVID_, I now get to work on AppSec problems full-time. Not quite sure how I pulled that off.
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
