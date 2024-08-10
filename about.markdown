@@ -34,4 +34,6 @@ Twenty years flew by before I really tried again to grok cryptography, but what 
 
 ![threat modeling help 5 cents, the appsec engineer is in, concept art based on lucy from peanuts]({{ site.baseurl }}/assets/lucy.png){: width="888"}
 
+_A fun bit of concept art I sketched to help pitch a threat modeling workshop idea (Hackathon Mar 2024). Obviously, all the credit goes to Charles Schulz for Peanuts_.
+
  -- JW
