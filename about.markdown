@@ -30,10 +30,10 @@ Like many teenagers, I played a ton of games. My early PC favorites were adventu
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
-Twenty years flew by before I really tried again to grok cryptography, but what a joy it is now.
+Twenty years flew by before I really tried again to grok cryptography.
 
 ![threat modeling help 5 cents, the appsec engineer is in, concept art based on lucy from peanuts]({{ site.baseurl }}/assets/lucy.png){: width="888"}
 
-_A fun bit of concept art I sketched to help pitch a threat modeling workshop idea (Hackathon Mar 2024). Obviously, all the credit goes to Charles Schulz for Peanuts_.
+_A fun bit of concept art I sketched to pitch a threat modeling workshop as a Hackathon co-event. Obviously, all the credit goes to Charles Schulz for Peanuts_.
 
  -- JW
