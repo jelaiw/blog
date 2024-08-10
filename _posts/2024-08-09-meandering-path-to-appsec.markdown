@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wandering into application security"
+title: "Wandering into AppSec"
 ---
 How did I get into security? Certainly not the direct route, if there is such a thing.
 
