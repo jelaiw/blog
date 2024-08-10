@@ -26,7 +26,9 @@ I ran a one-person LLC, which I'm glad I did because it taught me about sales, p
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 
-Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest), King's Quest, maybe even Leisure Suit Larry. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (correspondingly my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes).
+Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. 
+
+Unlike most, I enjoyed defeating copy protection and spending time in a hex editor (correspondingly my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes).
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
