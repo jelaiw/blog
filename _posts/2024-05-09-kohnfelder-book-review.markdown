@@ -20,7 +20,7 @@ I almost skipped over it myself because it came to me in a "pile" (as part of a 
 Definitely underrated right now, though I expect this will change over time.
 
 ## Parting Thoughts
-A fun tidit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. _Yes, that STRIDE_.
+A fun tidbit I learned was that Mr. Kohnfelder co-developed the STRIDE threat taxonomy. _Yes, that STRIDE_.
 
 The original paper, published internally at Microsoft in 1999, is [publicly available now][stride-paper], which is a gift for those of us who appreciate history and study its artifacts.
 
