@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "HIMYM, Security Edition"
+title: "HIMYM, Security Edition, Abridged"
 ---
 How did I get into security? Certainly not the direct route, if there is such a thing.
 
-![how i met your mother cast photo with "security edition" in stamp text font]({{ site.baseurl }}/assets/himym.png){: width="222"} 
+![how i met your mother cast photo with "security edition" in stamp text font]({{ site.baseurl }}/assets/himym.png){: width="299"} 
+
 _Who doesn't love an origin story? Don't worry, this one won't be 9 seasons._
 
 ## College
