@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wandering into AppSec"
+title: "How I Met Your Mother, Security Edition"
 ---
 How did I get into security? Certainly not the direct route, if there is such a thing.
 
@@ -18,7 +18,7 @@ Object-oriented programming (OOP) and GUIs were the thing to learn, so I wrote m
 
 The next decade was much tougher on me. 
 
-I ran a one-person LLC, which I'm glad I did because it taught me about sales, product, and the power of the MVP (minimum viable product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
+I ran a one-person LLC, which taught me about sales, business administration, and the power of the MVP (minimum viable product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
 
  _After a friendly shove forward from COVID_, I now get to work on AppSec problems full-time. Not quite sure how I pulled that off.
 
