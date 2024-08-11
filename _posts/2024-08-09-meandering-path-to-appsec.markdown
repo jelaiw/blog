@@ -2,7 +2,7 @@
 layout: post
 title: "HIMYM, Security Edition"
 ---
-![how i met your mother cast photo with "security edition" in stamp text font]({{ site.baseurl }}/assets/himym.png){: width="888"} How did I get into security? Certainly not the direct route, if there is such a thing.
+![how i met your mother cast photo with "security edition" in stamp text font]({{ site.baseurl }}/assets/himym.png){: width="222"} How did I get into security? Certainly not the direct route, if there is such a thing.
 
 ## College
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
