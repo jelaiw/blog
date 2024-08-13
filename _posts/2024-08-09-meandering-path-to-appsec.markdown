@@ -9,7 +9,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat ([IRC](https://www.rfc-editor.org/rfc/rfc1459)) client, which was a kind of nerdy rite of passage at that time, and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
 
-I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and discover exactly what's under the raised floor panels in the server room. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and tinker with networks. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
 Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. 
