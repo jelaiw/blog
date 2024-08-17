@@ -14,7 +14,7 @@ Because secure coding training is often conceived as a check-the-box compliance 
 
 They certainly practice watching videos and taking tests, but it is unclear how well this activity corresponds to increased secure coding competency. Arguably, developers are practicing the wrong thing.
 
-_Perhaps we should consider whether a more thoughtfully designed secure coding training program has some untapped potential, especially in the context of modern DevSecOps with its platform engineering focus_.
+Perhaps we should consider whether a more thoughtfully designed secure coding training program has some untapped potential, especially in the context of modern DevSecOps with its platform engineering focus.
 
 ## The problem in a nutshell
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
