@@ -6,7 +6,7 @@ title:  "Thoughts on secure coding training"
 
 UPDATE: After BlackHat last week, Chris Hughes blogged about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully wrote more narrowly about secure coding training in this post, but I would be remiss not to point newcomers to Mr. Hughes' related work on software supply chain security.
 
-[![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=222&q=75)](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
+[![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=640&q=75){: width="220"}](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
 
 Original post below.
 
@@ -14,7 +14,7 @@ Because secure coding training is often conceived as a check-the-box compliance 
 
 They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency (our desired outcome)?
 
-I think a well-designed secure coding training program has untapped potential, especially in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to measure competency, connect it to outcome, and better position our developers for success_?
+I think a well-designed secure coding training program has untapped potential, especially in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to teach secure coding, measure competency, and connect it to outcome?
 
 ## The problem in a nutshell
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
