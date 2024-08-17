@@ -12,9 +12,9 @@ Original post below.
 
 Because secure coding training is often conceived as a check-the-box compliance activity, it gets resourced accordingly and lightly implemented. _So what can a developer realistically get out of a videos & quizzes-only approach_? 
 
-They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency (our desired outcome)?
+They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency?
 
-I think a well-designed secure coding training program has untapped potential, especially in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to teach secure coding, measure competency, and connect it to outcome?
+I think a well-designed secure coding training program has untapped potential, especially in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to teach secure coding, measure competency, and connect it to outcome_?
 
 ## The problem in a nutshell
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
@@ -29,8 +29,10 @@ As an Application Security engineer working in DevOps, I try to help teams by im
 This "layer of defense" primarily leverages SAST (static application security testing) at the pull request, which is great for what it is, as a timely safety net to catch known security bugs that we can detect through static analysis of code, but are there meaningful things we can do earlier in the SDLC -- _especially to avoid writing the bug in first place_?
 
 ## The experiment
-Can secure coding be learned? Can it be taught? _What happens when we place a more carefully considered emphasis on teaching and learning_? And properly resource it.
+Can secure coding be learned? Can it be taught? _What happens when emphasize and properly resource developer training_?
 
-After inheriting a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designing and re-implementing it this past year around an innovative platform (with an opinion on how to measure and score secure coding competency) that provides high-quality hands-on labs and a "hack it first, then fix it" approach for developers, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities.
+Some gentle readers may know that I inherited a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designed and re-implemented it this past year around an innovative new platform called SecureFlag, which provides high-quality hands-on labs, a "hack it first, then fix it" approach for developers, and a way to measure and score secure coding competency.
+
+I have reason to be cautiously optimistic, maybe even naively excited about further possibilities and better positioning our developers for success.
 
 -- JW
