@@ -6,7 +6,7 @@ title:  "Thoughts on secure coding training"
 
 UPDATE: After BlackHat last week, Chris Hughes blogged about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully wrote more narrowly about secure coding training in this post, but I would be remiss not to point newcomers to Mr. Hughes' related work on software supply chain security.
 
-[![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=640&q=75)](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
+[![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=222&q=75)](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
 
 Original post below.
 
