@@ -2,6 +2,10 @@
 layout: post
 title:  "Thoughts on Secure coding training"
 ---
+"_We don’t have a cybersecurity problem. We have a software quality problem_" -- Jen Easterly
+
+UPDATE: After BlackHat last week, Chris Hughes blogged about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully write more narrowly about secure coding training in this post, but I would be remiss not to point newcomers to Mr. Hughes' work on software supply chain security.
+
 Because secure coding training is often conceived as a check-the-box compliance activity, it gets resourced accordingly and lightly implemented. _So what can a developer get out of a videos & quizzes-only approach_? 
 
 They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency (our desired outcome)?
