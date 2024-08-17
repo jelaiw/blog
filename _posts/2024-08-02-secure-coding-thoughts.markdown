@@ -4,7 +4,7 @@ title:  "Thoughts on secure coding training"
 ---
 "_We don’t have a cybersecurity problem. We have a software quality problem_" -- Jen Easterly
 
-UPDATE: After BlackHat last week, Chris Hughes blogged about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully wrote more narrowly about secure coding training in this post, but I would be remiss not to point newcomers to Mr. Hughes' related work on software supply chain security.
+UPDATE: After BlackHat last week, Chris Hughes blogged beautifully about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully wrote more narrowly about secure coding training in this post, but I would be remiss not to out Mr. Hughes' related work on software supply chain security.
 
 [![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=640&q=75){: width="220"}](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
 
@@ -12,9 +12,9 @@ Original post below.
 
 Because secure coding training is often conceived as a check-the-box compliance activity, it gets resourced accordingly and lightly implemented. _So what can a developer realistically get out of a videos & quizzes-only approach_? 
 
-They certainly practice watching videos and taking tests, but does this activity correspond to increased secure coding competency?
+They certainly practice watching videos and taking tests, but it is unclear how well this activity corresponds to increased secure coding competency. Arguably, developers are practicing the wrong thing.
 
-I think a well-designed secure coding training program has untapped potential, especially in the context of modern DevSecOps with its platform engineering focus. _Can we figure out how to teach secure coding, measure competency, and connect it to outcome_?
+_Perhaps we should consider whether a more thoughtfully designed secure coding training program has some untapped potential, especially in the context of modern DevSecOps with its platform engineering focus_.
 
 ## The problem in a nutshell
 So why does the technology world have a cybersecurity problem? If you believe that "software is eating the world", then perhaps much of the answer lies in how we develop software.
@@ -33,6 +33,6 @@ Can secure coding be learned? Can it be taught? _What happens when emphasize and
 
 Some gentle readers may know that I inherited a "videos + quizzes" secure coding training program (a good one for what it was) a few years ago and opportunistically re-designed and re-implemented it this past year around an innovative new platform called SecureFlag, which provides high-quality hands-on labs, a "hack it first, then fix it" approach for developers, and a way to measure and score secure coding competency.
 
-I have reason to be cautiously optimistic, maybe even naively excited about further possibilities and better positioning our developers for success.
+Based on pilot results so far, I have reason to be cautiously optimistic, maybe even naively excited about further possibilities and better positioning our developers for success.
 
 -- JW
