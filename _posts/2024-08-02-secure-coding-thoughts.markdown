@@ -4,7 +4,7 @@ title:  "Thoughts on secure coding training"
 ---
 "_We don’t have a cybersecurity problem. We have a software quality problem_" -- Jen Easterly
 
-UPDATE: After BlackHat last week, Chris Hughes blogged beautifully about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully wrote more narrowly about secure coding training in this post, but I would be remiss not to out Mr. Hughes' related work on software supply chain security.
+UPDATE: After BlackHat last week, Chris Hughes blogged beautifully about [Software's Iron Triangle](https://www.resilientcyber.io/p/softwares-iron-triangle-cheap-fast). I purposefully write more narrowly about secure coding training in this post, but would be remiss not to point out Mr. Hughes' related work.
 
 [![software transparency book cover](https://www.wiley.com/storefront-pdp-assets/_next/image?url=https%3A%2F%2Fmedia.wiley.com%2Fproduct_data%2FcoverImage300%2F83%2F13941584%2F1394158483.jpg&w=640&q=75){: width="220"}](https://www.wiley.com/en-us/Software+Transparency%3A+Supply+Chain+Security+in+an+Era+of+a+Software-Driven+Society-p-9781394158485)
 
