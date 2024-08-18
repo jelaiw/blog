@@ -18,7 +18,7 @@ The next decade was much tougher on me.
 
 I ran a one-person LLC, which taught me about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
 
- _After a friendly shove forward from COVID_, I now get to work on AppSec problems full-time. Not quite sure how I pulled that off.
+ _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
