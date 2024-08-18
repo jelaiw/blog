@@ -16,9 +16,9 @@ Instead, I spent the first decade of my career as a software developer, starting
 
 Importantly, I learned to care about design and the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
-I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), which helped me to imagine what "security as a product" might look like later when I tried to consider this concept. 
+I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product). 
 
-Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering and delivering the right data at the right time to developers as part of tooling in support of their standard workflow. 
+Future me was now much better equipped to imagine what "security as a product" might look like, and when data and DevOps came for me next, my eyes opened wider to how some problems in security could be solved with engineering the right platform (the product) for developers (the customers).
 
 _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
