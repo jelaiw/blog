@@ -9,7 +9,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat client [^2] and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
 
-I also worked for the systems administrator who ran the server room for the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and tinker with networks. While Mr. Bruce Williams was a no-nonsense boss, this was far more fun than it should have been for a part-time job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+I also worked for Mr. Bruce Williams who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a part-time job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
 Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. Object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^3], and tried to program pragmatically [^4].
@@ -28,8 +28,6 @@ Like many teenagers, I played video games. My early PC favorites were adventure-
 Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. Correspondingly, my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes.
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
-
-Twenty years flew by before I really tried again to grok cryptography.
 
  -- JW
 
