@@ -7,16 +7,14 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## College
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat client [^2] and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
+At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat client [^2], moderated `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet), and chatted with the various colorful and shadowy characters that hung out there. Then the internet became important, so it seems to have worked out.
 
-I also worked for Mr. Bruce Williams who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a part-time job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+When I wasn't studying or goofing off, I also worked for Mr. Bruce Williams who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a part-time job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
 Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. Object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^3], and tried to program pragmatically [^4].
 
-The next decade was much tougher on me. 
-
-I ran a one-person LLC, which taught me about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
+In the 2010s, I ran a one-person LLC, which taught me about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
 
  _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
