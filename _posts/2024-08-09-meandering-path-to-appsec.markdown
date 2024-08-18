@@ -14,11 +14,13 @@ When I wasn't studying or goofing off, I also worked part-time for a gruff, no-n
 ## Going pro
 Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. The Agile manifesto was drafted, Java was James Gosling and Sun Microsystems (now defunct), and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. Along the way, I even became an early adopter of continuous integration -- Hudson, lava lamps, and all.
 
-In retrospect, I learned to care about design, to respect the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
+Importantly, I learned to care about design, to respect the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
-In the 2010s, I went on a side quest and started a one-person LLC, which taught me about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), but it ultimately turned out to be a sort of failed experiment.
+I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn important lessons about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) -- the MVP concept is especially helpful when considering "security as a product".
 
-Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering. _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
+Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering and delivering the right data at the right time to developers as part of their standard workflow. 
+
+_After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one [^6].
