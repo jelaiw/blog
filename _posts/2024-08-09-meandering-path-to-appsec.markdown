@@ -7,7 +7,7 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## College
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat client [^2], which was a kind of nerdy rite of passage at that time, and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
+At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat client [^2] and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
 
 I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and tinker with networks. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
@@ -35,6 +35,6 @@ Twenty years flew by before I really tried again to grok cryptography.
 
 ## Footnotes
 [^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be dense.
-[^2]: I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
+[^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
 [^3]: Thanks to Martin Fowler and his "Refactoring" book.
 [^4]: With much owed to Josh Bloch for writing "Effective Java" and Andy Hunt and Dave Thomas for "The Pragmatic Programmer".
