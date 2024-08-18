@@ -21,9 +21,9 @@ I ran a one-person LLC, which taught me about sales, business administration, an
  _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
 ## Growing up
-Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one. Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
+Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one [^5].
 
-Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. 
+Like many teenagers, I played video games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. 
 
 Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. Correspondingly, my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes.
 
@@ -38,3 +38,4 @@ Twenty years flew by before I really tried again to grok cryptography.
 [^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
 [^3]: Thanks to Martin Fowler and his "Refactoring" book.
 [^4]: With much owed to Josh Bloch for writing "Effective Java" and Andy Hunt and Dave Thomas for "The Pragmatic Programmer".
+[^5]: Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
