@@ -36,5 +36,5 @@ Twenty years flew by before I really tried again to grok cryptography.
  -- JW
 
 ## Footnotes
-[^1]: Requests for comment by the Internet Engineering Task Force. [https://www.ietf.org/process/rfcs/](https://www.ietf.org/process/rfcs/).
-[^2]: The RFC for the IRC protocol. [https://www.rfc-editor.org/rfc/rfc1459](https://www.rfc-editor.org/rfc/rfc1459).
+[^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be dense.
+[^2]: I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
