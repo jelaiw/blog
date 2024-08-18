@@ -12,9 +12,7 @@ At the time CS students were required to choose a concentration, mine was Comput
 I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and tinker with networks. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Work
-Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. 
-
-Object-oriented programming (OOP) and GUIs were the thing to learn, so I wrote mostly Java, led a weekly OOP design patterns study group, learned how to refactor (thanks to Martin Fowler), tried to program pragmatically (with much owed to Josh Bloch, Andy Hunt and Dave Thomas), and generally had a good time.
+Instead, I spent the first decade of my career as a software developer. This was around the time of Y2K, the dot com boom, and when Java was James Gosling and Sun Microsystems. Object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^3], and tried to program pragmatically [^4].
 
 The next decade was much tougher on me. 
 
@@ -38,3 +36,5 @@ Twenty years flew by before I really tried again to grok cryptography.
 ## Footnotes
 [^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be dense.
 [^2]: I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
+[^3]: Thanks to Martin Fowler and his "Refactoring" book.
+[^4]: With much owed to Josh Bloch for writing "Effective Java" and Andy Hunt and Dave Thomas for "The Pragmatic Programmer".
