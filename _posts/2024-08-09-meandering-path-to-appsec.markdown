@@ -16,7 +16,7 @@ Instead, I spent the first decade of my career as a software developer. This was
 
 The next decade was much tougher on me. 
 
-I ran a one-person LLC, which taught me about sales, business administration, and the power of the MVP (minimum viable product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
+I ran a one-person LLC, which taught me about sales, business administration, and the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), but it ultimately turned out to be a sort of failed experiment. Data and DevOps came next, and my eyes opened to how some problems in security could be solved with platform engineering.
 
  _After a friendly shove forward from COVID_, I now get to work on AppSec problems full-time. Not quite sure how I pulled that off.
 
