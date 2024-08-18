@@ -21,8 +21,7 @@
 title: The AppSec Engineer is In
 author: Jelai Wang
 description: >- # this means to ignore newlines until "baseurl:"
-  Can secure design be learned? Can secure coding be taught?
-  Tales of wandering an application security path.
+  Learning to write. Writing to learn.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://jelaiw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jelaiw
