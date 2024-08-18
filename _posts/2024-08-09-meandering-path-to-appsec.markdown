@@ -7,7 +7,7 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## College
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed (and still do) reading IETF RFCs -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat ([IRC](https://www.rfc-editor.org/rfc/rfc1459)) client, which was a kind of nerdy rite of passage at that time, and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
+At the time CS students were required to choose a concentration, mine was Computer Networking. I discovered that I enjoyed reading IETF RFCs [^1] -- _yes, really enjoy_, so naturally, I implemented my own Internet Relay Chat ([IRC](https://www.rfc-editor.org/rfc/rfc1459)) client, which was a kind of nerdy rite of passage at that time, and hung out on [EFnet](https://en.wikipedia.org/wiki/EFnet). Then the internet became important, so it seems to have worked out.
 
 I also had a part time job in the Computer Science department, where I got to build Windows NT servers, make CAT5 cables, and tinker with networks. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
@@ -27,10 +27,12 @@ Looking back on my childhood now, I suppose there were some clues and foreshadow
 
 Like many teenagers, I played a ton of games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. 
 
-Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. Correspondingly my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes.
+Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. Correspondingly, my characters in the [Buck Rogers RPG](https://en.wikipedia.org/wiki/Buck_Rogers:_Matrix_Cubed) sometimes had conspicuously powerful items and unusually high character attributes.
 
 I distinctly remember the sheer delight of visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
 Twenty years flew by before I really tried again to grok cryptography.
 
  -- JW
+
+[^1]: Requests for comment on protocol specifications by the Internet Engineering Task Force. https://www.ietf.org/process/rfcs/.
