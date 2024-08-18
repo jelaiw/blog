@@ -12,7 +12,7 @@ At the time CS students were required to choose a concentration, so I chose Comp
 When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. The Agile manifesto was drafted, Java was James Gosling and Sun Microsystems (now defunct), and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. Along the way, I even became an early adopter of continuous integration -- Hudson, lava lamps, and all.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K, the dot com boom, the drafting of the Agile manifesto. At that time, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. Along the way, I even became an early adopter of continuous integration -- Hudson, lava lamps, and all.
 
 Importantly, I learned to care about design, to respect the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
