@@ -20,7 +20,7 @@ Importantly, I learned to care about design and the careful craftsmanship that w
 
 I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^6].
 
-Future me was now much better equipped to imagine what "security as a product" might look like, so when I became a card-carrying DevOps engineer, my eyes opened to how a platform (the product) designed to empower developers (the customers) could solve some problems in security.
+Future me was now much better equipped to imagine what "security as a product" might look like, so when I became a card-carrying DevOps engineer, my eyes opened to how a platform (the product) designed to empower developers (the customers) could solve some problems.
 
 _After a friendly shove forward from COVID_, I now get to work on security engineering full-time.
 
