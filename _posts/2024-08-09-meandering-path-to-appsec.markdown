@@ -9,18 +9,20 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered that I enjoyed reading IETF RFCs [^1]. _Yes, really enjoyed_, so naturally I implemented my own Internet Relay Chat client [^2], moderated `#linux` and `#java` on EFnet [^3], and chatted with the various colorful and shadowy characters that hung out there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
 
-When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
+When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. 
+
+Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration, with Hudson, all before DevOps became a buzzword.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration with Hudson, all before DevOps became a buzzword.
 
-Importantly, I learned to care deeply about design and the careful craftsmanship that went into good software engineering -- and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
+Importantly, I learned to care about design and the careful craftsmanship that went into good software engineering -- and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
 I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^6].
 
 Future me was now much better equipped to imagine what "security as a product" might look like, so when I became a card-carrying DevOps engineer next, my eyes opened to how the right platform (the product) for developers (the customers) could solve some problems in security.
 
-_After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
+_After a friendly shove forward from COVID_, I now get to work on security engineering full-time.
 
 ## Growing up
 Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one [^7].
