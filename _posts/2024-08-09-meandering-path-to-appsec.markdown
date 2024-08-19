@@ -12,9 +12,9 @@ At the time CS students were required to choose a concentration, so I chose Comp
 When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration -- with Hudson and lava lamps, all before DevOps became a real word.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration, with Hudson, all before DevOps became a buzzword.
 
-Importantly, I learned to care deeply about design and the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
+Importantly, I learned to care deeply about design and the careful craftsmanship that went into good software engineering -- and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
 I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^6].
 
@@ -39,7 +39,7 @@ I distinctly remember the sheer delight of visiting Waldenbooks (also now defunc
 [^3]: Probably too much jargon for the casual reader. Channel operators had the power to set topics, kick out unruly members, and otherwise moderate a channel. Channels on [EFnet](https://en.wikipedia.org/wiki/EFnet) where I had ops included `#linux` and `#java`, two topics of my interest during those days.
 [^4]: Thanks to Martin Fowler and his "Refactoring" book.
 [^5]: With much owed to Josh Bloch for writing "Effective Java" and Andy Hunt and Dave Thomas for "The Pragmatic Programmer".
-[^6]: Read more about MVP at https://en.wikipedia.org/wiki/Minimum_viable_product.
+[^6]: Read more about MVP at [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product).
 [^7]: Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 
 [bruce-staff-page]: https://web.archive.org/web/19980111100717/http://www.cis.uab.edu/info/staff/gbw/will.html
