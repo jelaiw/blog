@@ -30,6 +30,7 @@ Looking back on my childhood now, I suppose there were some clues and foreshadow
 Like many teenagers, I played video games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. 
 
 ![representative screenshot of buck rogers gameplay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdadxBWh2PA64UWy05e-utPX-p_nef0Baauf57rYfoA5xC0bqwiqawtfdKDXSsInp3JhsSmhtIir9uBaIN-j7Fq550-G97HYNwGx4zyWukJ5_ukCjAo6-QG6qdhKx1d_yLIe277QpBGGQ/s1600/start_129.png)
+
 _Correspondingly, my characters in Buck Rogers (an early RPG) sometimes had conspicuously powerful items and unusually high character attributes. Credit for screenshot goes to [CRPG Addict](http://crpgaddict.blogspot.com/2020/08/buck-rogers-matrix-cubed-fourth-power.html)._
 
 I distinctly remember visiting Waldenbooks (also now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
