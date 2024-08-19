@@ -7,9 +7,9 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## Getting a college degree
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered that I enjoyed reading IETF RFCs [^1]. _Yes, really enjoyed_, so naturally I implemented my own Internet Relay Chat client [^2], moderated a couple IRC channels EFnet [^3], and chatted online with the various colorful and shadowy characters that hung out there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
+At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered the joy of reading IETF RFCs [^1]. _Yes, actual joy_, so naturally I implemented my own Internet Relay Chat client [^2], moderated a couple of IRC channels on EFnet [^3], and hung out online with the various other colorful and shadowy characters there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
 
-When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real computer networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. 
+When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. 
 
 Whups!
 
