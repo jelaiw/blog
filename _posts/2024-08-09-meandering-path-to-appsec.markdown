@@ -12,13 +12,13 @@ At the time CS students were required to choose a concentration, so I chose Comp
 When I wasn't studying or goofing off, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with networks, which was far more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K, the dot com boom, the drafting of the Agile manifesto. At that time, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. Along the way, I even became an early adopter of continuous integration -- Hudson, lava lamps, and all.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration -- with Hudson, lava lamps, all before DevOps became a word.
 
-Importantly, I learned to care about design and the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
+Importantly, I learned to care deeply about design and the careful craftsmanship that went into good software engineering, and to wonder about secure coding, all of which planted important seeds that I would not try to sow until much later.
 
 I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product). 
 
-Future me was now much better equipped to imagine what "security as a product" might look like, and when data and DevOps came for me next, my eyes opened wider to how some problems in security could be solved with engineering the right platform (the product) for developers (the customers).
+Future me was now much better equipped to imagine what "security as a product" might look like, so when data and DevOps came for me next, my eyes opened wider to how some problems in security could be solved with engineering the right platform (the product) for developers (the customers).
 
 _After a friendly shove forward from COVID_, I now get to work on security engineering full-time. Not quite sure how I pulled that off.
 
