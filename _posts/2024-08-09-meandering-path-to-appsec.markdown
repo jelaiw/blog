@@ -14,7 +14,7 @@ I also worked part-time for a gruff, no-nonsense system administrator named Bruc
 Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration, implementing Hudson and contemplating the proper placement of red/green lava lamps [^6].
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration, implementing Hudson and contemplating the proper placement of red/green lava lamps [^6] for indicating build status.
 
 Fittingly, I learned to care about design and the careful craftsmanship that went into good software engineering -- and to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
@@ -40,9 +40,9 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
  -- JW
 
 ## Footnotes
-[^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be dense.
+[^1]: Reading these [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be daunting.
 [^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
-[^3]: While the casual reader has likely already given up, I try to cut through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Channels on [EFnet](https://en.wikipedia.org/wiki/EFnet) where I had ops included `#linux` and `#java`, two topics of my interest during those days at the frontier of the digital wild west.
+[^3]: Trying to cut through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Channels on [EFnet](https://en.wikipedia.org/wiki/EFnet) where I had ops included `#linux` and `#java`.
 [^4]: Thanks to Martin Fowler and his _Refactoring_ book.
 [^5]: With much owed to Josh Bloch for writing _Effective Java_ and to Andy Hunt and Dave Thomas for _The Pragmatic Programmer_.
 [^6]: [https://www.artima.com/weblogs/viewpost.jsp?thread=67492](https://www.artima.com/weblogs/viewpost.jsp?thread=67492)
