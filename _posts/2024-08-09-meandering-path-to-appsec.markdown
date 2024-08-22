@@ -42,7 +42,7 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
 ## Footnotes
 [^1]: Reading these [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be daunting.
 [^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
-[^3]: Trying to cut through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Channels on [EFnet](https://en.wikipedia.org/wiki/EFnet) where I had ops included `#linux` and `#java`.
+[^3]: Cutting through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Spent the most time in `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet). Those were special days.
 [^4]: Thanks to Martin Fowler and his _Refactoring_ book.
 [^5]: With much owed to Josh Bloch for writing _Effective Java_ and to Andy Hunt and Dave Thomas for _The Pragmatic Programmer_.
 [^6]: You'll likely need to wade through some dead links. It has been a long time. [https://www.artima.com/weblogs/viewpost.jsp?thread=67492](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
