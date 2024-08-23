@@ -14,7 +14,7 @@ When I wasn't tinkering with network protocols, I also worked part-time for a gr
 Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early adopter of continuous integration [^6], presaging my later stint in DevOps.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, learned how to refactor [^4], and tried to program pragmatically [^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
 
 Fittingly, I learned to care about design and the careful craftsmanship that went into good software engineering -- and to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
@@ -45,7 +45,7 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
 [^3]: Cutting through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Spent the most time in `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet). Those were special days.
 [^4]: Thanks to Martin Fowler and his _Refactoring_ book.
 [^5]: With much owed to Josh Bloch for writing _Effective Java_ and to Andy Hunt and Dave Thomas for _The Pragmatic Programmer_.
-[^6]: Implemented Hudson (now Jenkins) while contemplating the placement of [red/green lava lamps](https://blog.kenweiner.com/2006/04/lava-lamp-build-indicators.html) [for indicating build status](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
+[^6]: Fond memories of Hudson (now Jenkins) and [red/green lava lamps](https://blog.kenweiner.com/2006/04/lava-lamp-build-indicators.html) [for indicating build status](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
 [^7]: [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product).
 [^8]: Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 [^9]: Yes, [grok is a real word](https://en.wikipedia.org/wiki/Grok). Amusingly, I find myself explaining this a few times every year.
