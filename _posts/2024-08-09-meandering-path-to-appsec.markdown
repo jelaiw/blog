@@ -9,7 +9,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered the unexpected joy of reading IETF RFCs [^1]. _Yes, joy or something close to it_, so naturally I implemented my own Internet Relay Chat client [^2] for fun, moderated a couple of IRC channels on EFnet [^3] in my spare time, and hung out with others there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
 
-I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks, which was decidedly more fun than it should have been for a student job. I had no doubt that I would be a network admin or sysadmin after graduating. 
+When I wasn't tinkering with network protocols, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks. There was no doubt that I would be a network admin or sysadmin after graduating. 
 
 Whups!
 
