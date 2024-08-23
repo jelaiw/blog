@@ -45,7 +45,7 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
 [^3]: Cutting through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Spent the most time in `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet). Those were special days.
 [^4]: Thanks to Martin Fowler and his _Refactoring_ book.
 [^5]: With much owed to Josh Bloch for writing _Effective Java_ and to Andy Hunt and Dave Thomas for _The Pragmatic Programmer_.
-[^6]: Implemented Hudson (now Jenkins) while contemplating the proper placement of red/green lava lamps for indicating build status. [https://www.artima.com/weblogs/viewpost.jsp?thread=67492](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
+[^6]: Implemented Hudson (now Jenkins) while contemplating the placement of [red/green lava lamps](https://blog.kenweiner.com/2006/04/lava-lamp-build-indicators.html) [for indicating build status](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
 [^7]: [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product).
 [^8]: Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
 [^9]: Yes, [grok is a real word](https://en.wikipedia.org/wiki/Grok). Amusingly, I find myself explaining this a few times every year.
