@@ -9,7 +9,7 @@ I tried to become a medical doctor first. It took two years before I figured out
 
 At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered the unexpected joy of digging into IETF RFCs [^1] -- naturally I implemented my own Internet Relay Chat client [^2] for fun, moderated a couple of IRC channels on EFnet [^3] in my spare time, and hung out with others there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
 
-When I wasn't tinkering with network protocols, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks. There was no doubt in my mind that I would be a network admin or sysadmin after graduating. 
+When I wasn't tinkering with network protocols, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks. There was little doubt in my mind that I would be a network admin or sysadmin after graduating. 
 
 Whups!
 
@@ -25,7 +25,7 @@ As these puzzle pieces came together, future me was better equipped to imagine w
 _After a friendly shove forward from COVID_, I now get to work on security engineering full-time.
 
 ## Growing up
-Looking back on my childhood, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, somewhere in the middle, it seemed like everyone had one [^8].
+Looking back on my childhood, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, everyone had one [^8].
 
 Like many teenagers, I played video games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. 
 
@@ -33,7 +33,7 @@ Like many teenagers, I played video games. My early PC favorites were adventure-
 
 _Correspondingly, my characters in Buck Rogers (an early role-playing game) had conspicuously powerful items and unusually high character attributes. Credit for the screenshot (and the nostalgia) goes to [CRPG Addict](http://crpgaddict.blogspot.com/2020/08/buck-rogers-matrix-cubed-fourth-power.html)._
 
-I remember visiting Waldenbooks (also now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
+I also remember visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
 
 It would be twenty years before I really tried again to grok [^9] cryptography.
 
