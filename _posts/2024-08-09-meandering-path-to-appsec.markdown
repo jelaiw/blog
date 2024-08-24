@@ -18,7 +18,7 @@ Instead, I spent the first decade of my career as a software developer, starting
 
 Fittingly, I respected thoughtful design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
-Somewhere in the middle, I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^7].
+Along the way, I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^7].
 
 As these puzzle pieces came together, future me was better equipped to imagine what "security as a product" might look like, so when I became a card-carrying DevOps engineer, my eyes opened to how a platform (the product) designed to empower developers (the customers) could solve security problems.
 
