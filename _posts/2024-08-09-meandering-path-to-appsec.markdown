@@ -7,9 +7,9 @@ How did I get into security? Certainly not the direct route, if there is such a 
 ## Getting a college degree
 I tried to become a medical doctor first. It took two years before I figured out that I wouldn't be a good one. By then, all of my pre-med requirements were completed, but a sunk cost is a sunk cost. A bit more thoughtfully, I changed my major to Computer Science.
 
-At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered the unexpected joy of really digging into IETF RFCs [^1]. _Yes, joy or something close to it_, so naturally I implemented my own Internet Relay Chat client [^2] for fun, moderated a couple of IRC channels on EFnet [^3] in my spare time, and hung out with others there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
+At the time CS students were required to choose a concentration, so I chose Computer Networking, where I discovered the unexpected joy of digging into IETF RFCs [^1] -- naturally I implemented my own Internet Relay Chat client [^2] for fun, moderated a couple of IRC channels on EFnet [^3] in my spare time, and hung out with others there at the edge of a new and wild digital frontier. Then the internet became important, so it seems to have worked out.
 
-When I wasn't tinkering with network protocols, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks. There was no doubt that I would be a network admin or sysadmin after graduating. 
+When I wasn't tinkering with network protocols, I also worked part-time for a gruff, no-nonsense system administrator named Bruce Williams, who ran IT for the Computer Science department. I got to build Windows NT servers, make CAT5 cables, and tinker with real life computer networks. There was no doubt in my mind that I would be a network admin or sysadmin after graduating. 
 
 Whups!
 
@@ -40,7 +40,7 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
  -- JW
 
 ## Footnotes
-[^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be daunting to read, but worthwhile if you want to really understand how the protocols work.
+[^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be intimidating to read, but worthwhile if you want to really understand how the protocols work.
 [^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
 [^3]: Cutting through some jargon here. IRC channel operators have the power to set topics, kick out unruly members, and otherwise moderate a channel. Spent the most time in `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet). Those were special days.
 [^4]: Thanks to Martin Fowler and his _Refactoring_ book.
