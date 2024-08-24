@@ -14,9 +14,9 @@ When I wasn't tinkering with network protocols, I also worked part-time for a gr
 Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, refactored, and programmed pragmatically [^4][^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, practiced the art of refactoring [^4], and tried to program pragmatically [^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
 
-Fittingly, I cared about design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
+Fittingly, I respected thoughtful design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
 Somewhere in the middle, I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^7].
 
