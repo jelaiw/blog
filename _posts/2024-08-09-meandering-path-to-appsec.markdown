@@ -14,7 +14,7 @@ When I wasn't tinkering with network protocols, I also worked part-time for a gr
 Whups!
 
 ## Going pro
-Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, practiced the art of refactoring [^4], and tried to program pragmatically [^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
+Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, practiced refactoring [^4], and tried to program pragmatically [^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
 
 Fittingly, I respected thoughtful design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
@@ -43,7 +43,7 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
 [^1]: These [requests for comment](https://www.ietf.org/process/rfcs/) by the Internet Engineering Task Force can be intimidating to read, but worthwhile if you want to really understand how the protocols work.
 [^2]: Implementing IRC was a kind of nerdy rite of passage at that time. I have fond memories of diving into [the RFC for this protocol](https://www.rfc-editor.org/rfc/rfc1459).
 [^3]: IRC channel operators set topics, kicked out unruly members, and otherwise moderated the channel. Spent most of my time in `#linux` and `#java` on [EFnet](https://en.wikipedia.org/wiki/EFnet). Those were special days.
-[^4]: Thanks to Martin Fowler and his _Refactoring_ book.
+[^4]: Thanks to Martin Fowler, his book and [his writings over the decades](https://martinfowler.com/).
 [^5]: With much owed to Josh Bloch for writing _Effective Java_ and to Andy Hunt and Dave Thomas for _The Pragmatic Programmer_.
 [^6]: Fond memories of Hudson (now Jenkins) and [red/green lava lamps](https://blog.kenweiner.com/2006/04/lava-lamp-build-indicators.html) [for indicating build status](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
 [^7]: [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product).
