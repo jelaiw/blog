@@ -16,7 +16,7 @@ Whups!
 ## Going pro
 Instead, I spent the first decade of my career as a software developer, starting with the roller coaster ride that was Y2K and the dot com boom. Back then, Java was James Gosling and Sun Microsystems (now defunct) and object-oriented programming (OOP) was the thing to learn, so I wrote mostly Java, practiced refactoring [^4], and tried to program pragmatically [^5]. I was even an early proponent and adopter of what is now called continuous integration [^6], presaging my later stint in DevOps.
 
-Fittingly, I respected thoughtful design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
+Fittingly, I came to respect thoughtful design and the careful craftsmanship that went into good software engineering -- and began to wonder about secure coding, planting seeds of curiousity that I would try to sow later.
 
 Along the way, I also started (and stopped) a one-person LLC. This was a side quest that ultimately turned out to be a sort of failed experiment, but I did learn about sales, business administration, and especially the power of the minimum viable product [^7].
 
@@ -25,7 +25,7 @@ As these puzzle pieces came together, future me was better equipped to imagine w
 _After a friendly shove forward from COVID_, I now get to work on security engineering full-time.
 
 ## Growing up
-Looking back on my childhood, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, everyone had one [^8].
+Looking back on my childhood now, I suppose there were some clues and foreshadowing. As a Gen Xer, I grew up at a time when most households did not own a personal computer (PC). Then, everyone had one [^8].
 
 Like many teenagers, I played video games. My early PC favorites were adventure-based, like [Space Quest](https://en.wikipedia.org/wiki/Space_Quest_I), [King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest_I), [Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel), and pretty much anything else from Sierra On-Line. Unlike most, I enjoyed defeating copy protection and spending time in a hex editor. 
 
@@ -33,9 +33,9 @@ Like many teenagers, I played video games. My early PC favorites were adventure-
 
 _Correspondingly, my characters in Buck Rogers (an early role-playing game) had conspicuously powerful items and unusually high character attributes. Credit for the screenshot (and the nostalgia) goes to [CRPG Addict](http://crpgaddict.blogspot.com/2020/08/buck-rogers-matrix-cubed-fourth-power.html)._
 
-I also remember visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept secret.
+I also remember visiting Waldenbooks (now defunct) or the public library and heading straight for those treasured and familiar shelves to inhale the contents of every operating system book I could get my hands on. I was particularly obsessed with how passwords worked and how secrets were kept.
 
-It would be twenty years before I really tried again to grok [^9] cryptography.
+Surprisingly, it would be twenty years before I really tried again to grok [^9] cryptography, which is a regrettably long hiatus, but I am certainly glad to be revisiting and walking this path again.
 
  -- JW
 
@@ -48,6 +48,6 @@ It would be twenty years before I really tried again to grok [^9] cryptography.
 [^6]: Fond memories of Hudson (now Jenkins) and [red/green lava lamps](https://blog.kenweiner.com/2006/04/lava-lamp-build-indicators.html) [for indicating build status](https://www.artima.com/weblogs/viewpost.jsp?thread=67492).
 [^7]: [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product).
 [^8]: Ours was an [IBM PS/2](https://en.wikipedia.org/wiki/IBM_PS/2).
-[^9]: Yes, [grok is a real word](https://en.wikipedia.org/wiki/Grok). Amusingly, I find myself explaining this a few times every year.
+[^9]: Yes, [grok is a real word](https://en.wikipedia.org/wiki/Grok). Amusingly, I find myself explaining this a few times every year, including this past summer to my son amidst his peals of laughter at learning that this is a word.
 
 [bruce-staff-page]: https://web.archive.org/web/19980111100717/http://www.cis.uab.edu/info/staff/gbw/will.html
